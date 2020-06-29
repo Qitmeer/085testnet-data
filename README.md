@@ -40,5 +40,5 @@ check the output match with the stable balance (order=542370) of the kafh wallet
 ```
 ## Note
 1. The shipped `./payledger` binary version is for Dardwin (MacOS), src is [here](https://github.com/qitmeer/qitmeer/blob/0.8.5-dev/cmd/payledger/). see [doc](https://github.com/Qitmeer/qitmeer/blob/0.8.5-dev/cmd/payledger/README.md) for more details.
-2. The shipped './ibd/fastibd` binary version is for Dardwin (MacOS), src is [here]() see [doc](https://github.com/Qitmeer/qitmeer/blob/master/cmd/fastibd/README.md)  of `fastibd` for more details.
+2. The shipped `./ibd/fastibd` binary version is for Dardwin (MacOS), src is [here](https://github.com/Qitmeer/qitmeer/tree/master/cmd/fastibd/),  see [doc](https://github.com/Qitmeer/qitmeer/blob/master/cmd/fastibd/README.md) for more details.
 
